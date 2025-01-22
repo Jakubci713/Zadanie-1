@@ -4,8 +4,8 @@ Zadanie 1 polegało na stworzeniu projektu opartego na Bootspringu.
 
 ## Działanie
 
-Aplikacja działa na podstawie z https://start.spring.io/ - MAVEN
-język programowania JAVA 
+Aplikacja działa na podstawie z https://start.spring.io/ - Maven,
+język programowania: Java, 
 
 Sam program jest prosty i przy pomocy kontrolera wyświetlany jest plik html. 
 
